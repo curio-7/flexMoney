@@ -7,10 +7,7 @@ const cors = require('cors');
 
 const app = express();
 // Enable CORS for all routes
-app.use(cors({
-    methods: ["POST", "GET"],
-    credentials: true
-}));
+app.use(cors());
 
 
 connectDB();
