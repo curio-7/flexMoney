@@ -42,7 +42,7 @@ Open separate terminals for both frontend and backend and type "npm start" to ru
 ## More That can be done:-
 1. Improving UI
 2. Different Sections of HomePage
-3. Functional CompletePayment() Method
+3. Complete CompletePayment() Method
 4. Using BcryptJS for Login and SignUp
 5. Keeping track of working days.
     
