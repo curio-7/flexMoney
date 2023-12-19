@@ -25,7 +25,7 @@ img {
 body {
   background-color: #f6f6f6;
   max-width: 100%;
-  overflow: hidden;
+  /* overflow: hidden; */
 }
 
 nav {
@@ -135,7 +135,7 @@ nav {
   align-items: center;
   /* justify-content: center; */
   margin-top: 25px;
-  margin-left: 150px;
+  /* margin-left: 150px; */
 }
 .btn-primary{
   display: inline-block; /* Ensure the link is an inline-block element */
