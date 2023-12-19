@@ -36,6 +36,13 @@ If try to register again it will show Payment Done for this month, Thanks!
     -Material UI
     -Postman for API Testing
 
+## Demo:
+
+https://github.com/curio-7/flexMoney/assets/77585810/ab4fc6be-e30f-449f-8e2a-deb2a74c3be8
+
+
+
+
 ## How to run on your system
 Open separate terminals for both frontend and backend and type "npm start" to run both.
 
