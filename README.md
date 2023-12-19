@@ -30,7 +30,7 @@ If try to register again it will show Payment Done for this month, Thanks!
     -FrontEnd :- ReactJS
     -BackEnd :- ExpressJS, NodeJS
     -DataBase :- MongoDB
-    -Deployment :- 
+    -Deployment :- Vercel
     -Javascript
     -Bootstrap
     -Material UI
